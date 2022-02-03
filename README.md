@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @h780
 - 👀 I’m interested in building up Machine Learning and Data Mining projects
-- 🌱 I’m currently completing my Masters at University of Cincinnati
+- 🌱 I’m currently pursuing my Masters at University of Cincinnati
 - 💞️ I’m looking to collaborate on projects which are based on above mentioned skill paths
 
 <!---
